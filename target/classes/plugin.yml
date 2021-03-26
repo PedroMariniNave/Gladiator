@@ -1,0 +1,9 @@
+name: Gladiator
+description: Got combat items with this NPC.
+version: 1.0
+author: zPedroo_
+main: com.zpedroo.gladiator.Main
+commands:
+  gladiator:
+  gladiatorcoin:
+  gladiatorhelmet:

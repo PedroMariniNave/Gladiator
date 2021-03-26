@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Gladiator">
+    <output-path>$USER_HOME$/Desktop/Testes/plugins</output-path>
+    <root id="archive" name="Gladiator.jar">
+      <element id="module-output" name="Gladiator [Rankup Dark]" />
+    </root>
+  </artifact>
+</component>
